@@ -6,7 +6,12 @@ it uses Sqlite to store the data that the user inters.
 ### https://www.figma.com/file/Bv3YWsOQg946qc8Fy19Yrk/Project?node-id=0%3A1
 
 # Screenshots
-
+![](screenshot/a.png)
+![](screenshot/b.png)
+![](screenshot/c.png)
+![](screenshot/d.png)
+![](screenshot/e.png)
+![](screenshot/f.png)
 
 
 
